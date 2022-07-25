@@ -15,6 +15,6 @@
     //use cout to print "Object Oriented Programming" followed by a new line.
     
 
-   std::cout << "Object Oriented Programming\n";
+   std::cout << "Object-Oriented Programming\n";
     
 }
